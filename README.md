@@ -8,3 +8,4 @@
 - [x] [XMLHttpRequest](https://juejin.cn/post/6844903472714743816) :star: :waxing_crescent_moon:
 - [x] [深浅拷贝的实现](https://juejin.cn/post/6972517144894373925?utm_source=gold_browser_extension#heading-16) :star: :waxing_crescent_moon:
 - [x] [你累死累活做业务，绩效还不怎么样，我只能帮你到这了……](https://juejin.cn/post/6844904150161948679#heading-20) :star: :star: :first_quarter_moon:
+- [x] [简明 JavaScript 函数式编程——入门篇](https://juejin.cn/post/6844903936378273799#comment) :star: :first_quarter_moon:
