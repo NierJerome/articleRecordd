@@ -17,3 +17,4 @@
 - [x] [React核心概念](https://react.docschina.org/docs/thinking-in-react.html) :star: :star: :star:  :first_quarter_moon: 
 - [x] [React Ref 其实是这样的](https://juejin.cn/post/6883671829395800072) :star: :waning_gibbous_moon:
 - [x] [React 函数式组件和类组件的区别，不是只有state和性能！](https://juejin.cn/post/6844904049146331150) :star: :waning_gibbous_moon:
+- [x] [「react进阶」一文吃透React高阶组件(HOC)](https://juejin.cn/post/6940422320427106335) 
