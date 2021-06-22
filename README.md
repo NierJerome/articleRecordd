@@ -15,5 +15,5 @@
 - [x] [互联网是如何工作的](https://developer.mozilla.org/zh-CN/docs/Learn/Common_questions/How_does_the_Internet_work) :star: :full_moon:
 - [x] [React 受控和非受控组件](https://juejin.cn/post/6858276396968951822) :star: :first_quarter_moon:
 - [x] [React核心概念](https://react.docschina.org/docs/thinking-in-react.html) :star: :star: :star:  :first_quarter_moon: 
-- [x] [React Ref 其实是这样的](https://juejin.cn/post/6883671829395800072) :star: waning_gibbous_moon:
-- [x] [React 函数式组件和类组件的区别，不是只有state和性能！](https://juejin.cn/post/6844904049146331150) :star: waning_gibbous_moon:
+- [x] [React Ref 其实是这样的](https://juejin.cn/post/6883671829395800072) :star: :waning_gibbous_moon:
+- [x] [React 函数式组件和类组件的区别，不是只有state和性能！](https://juejin.cn/post/6844904049146331150) :star: :waning_gibbous_moon:
