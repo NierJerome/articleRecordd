@@ -20,4 +20,5 @@
 - [x] [「react进阶」一文吃透React高阶组件(HOC)](https://juejin.cn/post/6940422320427106335) 
 - [x] [深入理解TypeScript](https://jkchao.github.io/typescript-book-chinese/typings/interfaces.html#%E7%B1%BB%E5%8F%AF%E4%BB%A5%E5%AE%9E%E7%8E%B0%E6%8E%A5%E5%8F%A3)
 - [x] [React + TypeScript实践](https://juejin.cn/post/6952696734078369828#heading-30) :star: :first_quarter_moon: 
+- [x] [React + TypeScript + create-react-app](https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets)
  
