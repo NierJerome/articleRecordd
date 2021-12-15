@@ -24,4 +24,5 @@
 - [x] [Vue3 Hooks 探索](https://juejin.cn/post/7008835573607563295) :star: 
 - [x] [你会用ES6，那倒是用啊！](https://juejin.cn/post/7016520448204603423#heading-6) :star:
 - [x] [20+ css高频实用片段，提高幸福感的小技能你可以拥有噢](https://juejin.cn/post/7016476364446367780#heading-4) :star:
+- [x] [如何把所学知识内化为自己的](https://zhuanlan.zhihu.com/p/327812721) :star:
  
